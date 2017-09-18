@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "225817237719",
+    "firebase_url": "https://xsecapp.firebaseio.com",
+    "project_id": "xsecapp",
+    "storage_bucket": "xsecapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225817237719:android:1756e691530361cf",
+        "android_client_info": {
+          "package_name": "com.retrocode.xsecapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225817237719-u7cats4r9cee95v38gqi4k05k0g25sf9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.retrocode.xsecapp",
+            "certificate_hash": "e5379783558b936301223af6cd34472ad0a895e7"
+          }
+        },
+        {
+          "client_id": "225817237719-70o0cm965bltnv8i2ffcmantaiql3mq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWMZwb__QWkU_X_ODynOEyxSm2-_X57_s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225817237719-70o0cm965bltnv8i2ffcmantaiql3mq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
